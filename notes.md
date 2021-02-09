@@ -19,3 +19,11 @@
 - git log
 - git diff
 - git remote add origin (we are telling git where we want to send our commits to).
+- git push origin <branch-name>
+- git pull origin <branch-name>
+
+### Branches
+
+- git branch (list branches)
+- git branch -m "some-name" (create a new branch called "some-name").
+- git checkout <branch-name> (move to branch name).
