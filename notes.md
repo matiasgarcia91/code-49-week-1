@@ -18,3 +18,4 @@
 - git commit
 - git log
 - git diff
+- git remote add origin (we are telling git where we want to send our commits to).
